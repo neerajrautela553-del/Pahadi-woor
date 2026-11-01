@@ -1,0 +1,6 @@
+{
+  "name": "PAHADI WAR - GTA 5 PAHADI EDITION",
+  "description": "Open world Uttarakhand Himalayan action game featuring MR BAAZ, Thar 4x4 driving, police pursuit, gang turf battles, and mountain missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
